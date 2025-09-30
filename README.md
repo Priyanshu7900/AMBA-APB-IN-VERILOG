@@ -125,15 +125,22 @@ run -all
 ---
 
 ## Useful References
-- [AMBA APB Protocol Specification (ARM IHI 0024E, 2023)](../mnt/data/110167dc-caf2-416c-841f-e795bdb10d52.pdf)  
+- ## Useful References
+- [AMBA APB Protocol Specification (ARM IHI 0024E, 2023)](./docs/AMBA_APB_Specification.pdf)  
 - [Arm Developer Documentation](https://developer.arm.com/documentation)  
-
+  
 ---
 
 ## Notes
 - The designs here are **for learning and simulation purposes**, not production-grade IP.  
 - Simulation results are pre-captured in the `*_RESULTS.pdf` files.  
 
+---
+
+## Author
+Repository owner: **Priyanshu7900**  
+
+---
 ---
 
 ## Author
