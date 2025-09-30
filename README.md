@@ -126,7 +126,7 @@ run -all
 
 ## Useful References
 - ## Useful References
-- [AMBA APB Protocol Specification (ARM IHI 0024E, 2023)](./docs/AMBA_APB_Specification.pdf)  
+- [AMBA APB Protocol Specification (ARM IHI 0024E, 2023)](https://developer.arm.com/documentation/ihi0024/e)  
 - [Arm Developer Documentation](https://developer.arm.com/documentation)  
   
 ---
