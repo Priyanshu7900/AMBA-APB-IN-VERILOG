@@ -137,13 +137,4 @@ run -all
 
 ---
 
-## Author
-Repository owner: **Priyanshu7900**  
 
----
----
-
-## Author
-Repository owner: **Priyanshu7900**  
-
----
